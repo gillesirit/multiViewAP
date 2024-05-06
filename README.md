@@ -8,4 +8,4 @@ Python code to test the behavior of analogical proportions when focusing on dive
 2. Run jupyter notebook ipmu2024.ipynb
 3. Feel free to change all parameters like: *number_of_elements* (default 10), the masks *focus0* and *focus1*
 4. Then observe the diverse printed numbers
-5. Note: Increasing number_of_elements (the number of loaded raws) willnecessarily increase the runtime
+5. Note: Increasing number_of_elements (the number of loaded raws) will necessarily increase the runtime
