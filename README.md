@@ -10,6 +10,9 @@ Python code to test the behavior of analogical proportions when focusing on dive
 4. Then observe the diverse printed numbers
 5. Note: Increasing number_of_elements (the number of loaded raws) will necessarily increase the runtime
 6. In figure summary.jpg, we provide a screenshot summary of what is computed by the notebook:
+
+   ![summary](https://github.com/gillesirit/multiViewAP/assets/61297905/09ab5dfa-cb1a-4d4b-9059-962b4183b7e1)
+
    
  – Line 1 provides main information on full dataset, sample size and dimension.
  
