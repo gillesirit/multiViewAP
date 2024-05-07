@@ -9,7 +9,7 @@ Python code to test the behavior of analogical proportions when focusing on dive
 3. Feel free to change all parameters like: *number_of_elements* (default 10), the masks *focus0* and *focus1*
 4. Then observe the diverse printed numbers
 5. Note: Increasing number_of_elements (the number of loaded raws) will necessarily increase the runtime
-6. In figure summary.png, we provide a screenshot summary of what is computed by the notebook:
+6. In figure summary.jpg, we provide a screenshot summary of what is computed by the notebook:
    
  – Line 1 provides main information on full dataset, sample size and dimension.
  
