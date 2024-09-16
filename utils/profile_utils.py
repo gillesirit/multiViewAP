@@ -70,3 +70,9 @@ def check_transitivity(list1,list2, mask):
     return candidate,count
 
     
+def matching_profile_on_mask(u,v,focus): # true iff u[i]==v[i] when focus[i]=1
+    res = True
+    for i in range(len(focus)):
+        if focus[i]==1:
+            res =res and u[i]==v[i]
+    return res
